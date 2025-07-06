@@ -1,0 +1,5 @@
+air-v
+flight_data.db
+__pycache__
+
+.env

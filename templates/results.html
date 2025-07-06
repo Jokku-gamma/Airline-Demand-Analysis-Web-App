@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Demand Results</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        /* Custom styles for Inter font */
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        /* Ensure canvas responsiveness */
+        canvas {
+            max-height: 400px; /* Limit height for better display */
+            width: 100% !important; /* Override Chart.js inline width */
+            height: auto !important; /* Override Chart.js inline height */
+        }
+    </style>
+</head>
+<body class="bg-gray-100 p-4 sm:p-6 lg:p-8">
+    <div class="container mx-auto max-w-4xl bg-white rounded-xl shadow-lg overflow-hidden">
+        <!-- Header Section -->
+        <div class="bg-amber-400 p-4 sm:p-6 rounded-t-xl">
+            <h1 class="text-xl sm:text-2xl lg:text-3xl font-bold text-center text-gray-900 mb-0">
+                Flight Demand Results: <span class="text-white">{{ origin }}</span> to <span class="text-white">{{ destination }}</span>
+            </h1>
+        </div>
+
+        <div class="p-4 sm:p-6 lg:p-8">
+            <!-- Summary Section -->
+            <h2 class="text-2xl font-semibold text-gray-800 mb-3">Summary</h2>
+            <div class="bg-blue-50 p-4 rounded-lg mb-6 text-gray-700 leading-relaxed shadow-inner">
+                <p>{{ summary }}</p>
+            </div>
+
+            <!-- Total Flights -->
+            <h2 class="text-2xl font-semibold text-gray-800 mb-3">Total Flights: <span class="text-blue-600">{{ total_flights }}</span></h2>
+
+            <!-- Flights per Day Chart -->
+            <h3 class="text-xl font-semibold text-gray-800 mb-3 mt-6">Flights per Day (High-Demand Periods)</h3>
+            <div class="bg-gray-50 p-4 rounded-lg shadow-sm mb-6">
+                <canvas id="flightsPerDayChart"></canvas>
+            </div>
+
+            <!-- Flight Details Table -->
+            <h3 class="text-xl font-semibold text-gray-800 mb-3 mt-6">Flight Details & Prices</h3>
+            <div class="overflow-x-auto bg-gray-50 rounded-lg shadow-sm">
+                <table class="min-w-full divide-y divide-gray-200">
+                    <thead class="bg-gray-100">
+                        <tr>
+                            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider rounded-tl-lg">Date</th>
+                            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Airline</th>
+                            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Departure Time</th>
+                            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Arrival Time</th>
+                            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Status</th>
+                            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider rounded-tr-lg">Booking Options (Prices)</th>
+                        </tr>
+                    </thead>
+                    <tbody class="bg-white divide-y divide-gray-200">
+                        {% for flight in flights %}
+                            <tr>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{{ flight.flight_date }}</td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{{ flight.airline }}</td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{{ flight.departure_time }}</td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{{ flight.arrival_time }}</td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{{ flight.flight_status }}</td>
+                                <td class="px-6 py-4 text-sm text-gray-900">
+                                    {% if flight.booking_options %}
+                                        <ul class="list-disc list-inside">
+                                            {% for option in flight.booking_options %}
+                                                <li>{{ option.platform }}: {{ option.price }} {% if option.is_best_offer %}(Best){% endif %}</li>
+                                            {% endfor %}
+                                        </ul>
+                                    {% else %}
+                                        N/A
+                                    {% endif %}
+                                </td>
+                            </tr>
+                        {% endfor %}
+                        {% if not flights %}
+                            <tr>
+                                <td colspan="6" class="px-6 py-4 text-center text-sm text-gray-500">No flight details available for this selection.</td>
+                            </tr>
+                        {% endif %}
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Back Button -->
+            <div class="mt-8 text-center">
+                <a href="/" class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-lg shadow-sm text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition duration-150 ease-in-out">
+                    &larr; Back to Search
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Data passed from Flask backend
+        const flightsPerDayLabels = {{ flights_per_day_labels | tojson | safe }};
+        const flightsPerDayValues = {{ flights_per_day_values | tojson | safe }};
+
+        // Flights per Day Chart
+        var ctx1 = document.getElementById('flightsPerDayChart').getContext('2d');
+        new Chart(ctx1, {
+            type: 'line',
+            data: {
+                labels: flightsPerDayLabels,
+                datasets: [{
+                    label: 'Flights per Day',
+                    data: flightsPerDayValues,
+                    borderColor: '#2196F3', /* Blue */
+                    backgroundColor: 'rgba(33, 150, 243, 0.2)', /* Light Blue */
+                    fill: true,
+                    tension: 0.4, /* Smooth the line */
+                    pointBackgroundColor: '#2196F3',
+                    pointBorderColor: '#fff',
+                    pointHoverBackgroundColor: '#fff',
+                    pointHoverBorderColor: '#2196F3'
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                        labels: {
+                            font: {
+                                family: 'Inter'
+                            }
+                        }
+                    },
+                    title: {
+                        display: true,
+                        text: 'Number of Flights Over Time (High-Demand Periods)',
+                        font: {
+                            size: 16,
+                            family: 'Inter'
+                        },
+                        color: '#333'
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: false,
+                        title: {
+                            display: true,
+                            text: 'Number of Flights',
+                            font: {
+                                family: 'Inter'
+                            }
+                        },
+                        ticks: {
+                            font: {
+                                family: 'Inter'
+                            }
+                        }
+                    },
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Date',
+                            font: {
+                                family: 'Inter'
+                            }
+                        },
+                        ticks: {
+                            font: {
+                                family: 'Inter'
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

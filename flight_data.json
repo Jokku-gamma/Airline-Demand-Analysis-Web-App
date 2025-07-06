@@ -1,0 +1,1669 @@
+{
+  "search_parameters": {
+    "origin": "SYD",
+    "destination": "MEL",
+    "start_date": "2025-07-01",
+    "end_date": "2025-09-30",
+    "adults": 1,
+    "cabin_class": "Economy"
+  },
+  "summary_prices": {
+    "cheapest_overall": {
+      "price": "A$1,150",
+      "duration": "1h 25m"
+    },
+    "best_overall": {
+      "price": "A$1,200",
+      "duration": "1h 30m"
+    },
+    "quickest_overall": {
+      "price": "A$1,300",
+      "duration": "1h 20m"
+    }
+  },
+  "total_flights_found": 18000,
+  "filtered_flights_count": 17500,
+  "stops_options": [
+    { "type": "Direct", "min_price": "A$1,150" },
+    { "type": "1 stop", "min_price": "A$1,800" },
+    { "type": "2+ stops", "min_price": "A$2,500" }
+  ],
+  "flight_results": [
+    {
+      "flight_id": "SYDMEL-0701-001",
+      "date": "2025-07-01",
+      "day_of_week": "Tuesday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "08:10",
+        "arrival_time": "09:45",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 35m"
+      },
+      "return_flight": {
+        "departure_time": "18:00",
+        "arrival_time": "19:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,184",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$1,220" },
+        { "platform": "Agoda.com", "price": "A$1,184", "is_best_offer": true },
+        { "platform": "iWoFly", "price": "A$1,250" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0702-001",
+      "date": "2025-07-02",
+      "day_of_week": "Wednesday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "09:30",
+        "arrival_time": "11:00",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "19:00",
+        "arrival_time": "20:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,210",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Virgin Australia", "price": "A$1,250" },
+        { "platform": "Skyscanner", "price": "A$1,210", "is_best_offer": true },
+        { "platform": "Kayak", "price": "A$1,280" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0703-001",
+      "date": "2025-07-03",
+      "day_of_week": "Thursday",
+      "type_category": "Quickest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "08:20",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 20m"
+      },
+      "return_flight": {
+        "departure_time": "16:00",
+        "arrival_time": "17:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,250",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Qantas", "price": "A$1,300" },
+        { "platform": "Flight Centre", "price": "A$1,250", "is_best_offer": true },
+        { "platform": "Webjet", "price": "A$1,290" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0704-001",
+      "date": "2025-07-04",
+      "day_of_week": "Friday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "14:00",
+        "arrival_time": "15:30",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "21:00",
+        "arrival_time": "22:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,450",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$1,500" },
+        { "platform": "Trip.com", "price": "A$1,450", "is_best_offer": true },
+        { "platform": "Expedia", "price": "A$1,480" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0705-001",
+      "date": "2025-07-05",
+      "day_of_week": "Saturday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:30",
+        "arrival_time": "09:00",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "17:00",
+        "arrival_time": "18:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,850",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Expedia", "price": "A$1,920" },
+        { "platform": "Trip.com", "price": "A$1,850", "is_best_offer": true },
+        { "platform": "Kiwi.com", "price": "A$1,880" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0706-001",
+      "date": "2025-07-06",
+      "day_of_week": "Sunday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "09:00",
+        "arrival_time": "10:30",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "19:00",
+        "arrival_time": "20:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$2,100",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Qantas", "price": "A$2,180" },
+        { "platform": "Virgin Australia", "price": "A$2,100", "is_best_offer": true },
+        { "platform": "Jetstar", "price": "A$2,150" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0707-001",
+      "date": "2025-07-07",
+      "day_of_week": "Monday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "08:10",
+        "arrival_time": "09:45",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 35m"
+      },
+      "return_flight": {
+        "departure_time": "18:00",
+        "arrival_time": "19:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,200",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$1,250" },
+        { "platform": "Agoda.com", "price": "A$1,200", "is_best_offer": true },
+        { "platform": "iWoFly", "price": "A$1,280" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0708-001",
+      "date": "2025-07-08",
+      "day_of_week": "Tuesday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "09:30",
+        "arrival_time": "11:00",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "19:00",
+        "arrival_time": "20:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,230",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Virgin Australia", "price": "A$1,270" },
+        { "platform": "Skyscanner", "price": "A$1,230", "is_best_offer": true },
+        { "platform": "Kayak", "price": "A$1,300" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0709-001",
+      "date": "2025-07-09",
+      "day_of_week": "Wednesday",
+      "type_category": "Quickest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "08:20",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 20m"
+      },
+      "return_flight": {
+        "departure_time": "16:00",
+        "arrival_time": "17:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,270",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Qantas", "price": "A$1,320" },
+        { "platform": "Flight Centre", "price": "A$1,270", "is_best_offer": true },
+        { "platform": "Webjet", "price": "A$1,310" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0710-001",
+      "date": "2025-07-10",
+      "day_of_week": "Thursday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "14:00",
+        "arrival_time": "15:30",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "21:00",
+        "arrival_time": "22:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,480",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$1,530" },
+        { "platform": "Trip.com", "price": "A$1,480", "is_best_offer": true },
+        { "platform": "Expedia", "price": "A$1,510" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0711-001",
+      "date": "2025-07-11",
+      "day_of_week": "Friday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "08:10",
+        "arrival_time": "09:45",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 35m"
+      },
+      "return_flight": {
+        "departure_time": "18:00",
+        "arrival_time": "19:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,550",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$1,600" },
+        { "platform": "Agoda.com", "price": "A$1,550", "is_best_offer": true },
+        { "platform": "iWoFly", "price": "A$1,630" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0712-001",
+      "date": "2025-07-12",
+      "day_of_week": "Saturday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "06:00",
+        "arrival_time": "07:40",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 40m"
+      },
+      "return_flight": {
+        "departure_time": "20:55",
+        "arrival_time": "22:20",
+        "origin_airport": "MEL Avalon",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$2,050",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$2,100" },
+        { "platform": "Flightnetwork", "price": "A$2,050", "is_best_offer": true },
+        { "platform": "Booking.com", "price": "A$2,130" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0713-001",
+      "date": "2025-07-13",
+      "day_of_week": "Sunday",
+      "type_category": "Quickest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "08:20",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 20m"
+      },
+      "return_flight": {
+        "departure_time": "16:00",
+        "arrival_time": "17:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$2,200",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Qantas", "price": "A$2,250" },
+        { "platform": "Flight Centre", "price": "A$2,200", "is_best_offer": true },
+        { "platform": "Webjet", "price": "A$2,280" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0714-001",
+      "date": "2025-07-14",
+      "day_of_week": "Monday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "08:10",
+        "arrival_time": "09:45",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 35m"
+      },
+      "return_flight": {
+        "departure_time": "18:00",
+        "arrival_time": "19:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,250",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$1,300" },
+        { "platform": "Agoda.com", "price": "A$1,250", "is_best_offer": true },
+        { "platform": "iWoFly", "price": "A$1,330" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0715-001",
+      "date": "2025-07-15",
+      "day_of_week": "Tuesday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "09:30",
+        "arrival_time": "11:00",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "19:00",
+        "arrival_time": "20:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,280",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Virgin Australia", "price": "A$1,320" },
+        { "platform": "Skyscanner", "price": "A$1,280", "is_best_offer": true },
+        { "platform": "Kayak", "price": "A$1,350" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0716-001",
+      "date": "2025-07-16",
+      "day_of_week": "Wednesday",
+      "type_category": "Quickest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "08:20",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 20m"
+      },
+      "return_flight": {
+        "departure_time": "16:00",
+        "arrival_time": "17:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,300",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Qantas", "price": "A$1,350" },
+        { "platform": "Flight Centre", "price": "A$1,300", "is_best_offer": true },
+        { "platform": "Webjet", "price": "A$1,340" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0717-001",
+      "date": "2025-07-17",
+      "day_of_week": "Thursday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "14:00",
+        "arrival_time": "15:30",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "21:00",
+        "arrival_time": "22:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,500",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$1,550" },
+        { "platform": "Trip.com", "price": "A$1,500", "is_best_offer": true },
+        { "platform": "Expedia", "price": "A$1,530" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0718-001",
+      "date": "2025-07-18",
+      "day_of_week": "Friday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "08:10",
+        "arrival_time": "09:45",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 35m"
+      },
+      "return_flight": {
+        "departure_time": "18:00",
+        "arrival_time": "19:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,600",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$1,650" },
+        { "platform": "Agoda.com", "price": "A$1,600", "is_best_offer": true },
+        { "platform": "iWoFly", "price": "A$1,680" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0719-001",
+      "date": "2025-07-19",
+      "day_of_week": "Saturday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "06:00",
+        "arrival_time": "07:40",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 40m"
+      },
+      "return_flight": {
+        "departure_time": "20:55",
+        "arrival_time": "22:20",
+        "origin_airport": "MEL Avalon",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$2,100",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$2,150" },
+        { "platform": "Flightnetwork", "price": "A$2,100", "is_best_offer": true },
+        { "platform": "Booking.com", "price": "A$2,180" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0720-001",
+      "date": "2025-07-20",
+      "day_of_week": "Sunday",
+      "type_category": "Quickest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "08:20",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 20m"
+      },
+      "return_flight": {
+        "departure_time": "16:00",
+        "arrival_time": "17:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$2,250",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Qantas", "price": "A$2,300" },
+        { "platform": "Flight Centre", "price": "A$2,250", "is_best_offer": true },
+        { "platform": "Webjet", "price": "A$2,330" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0721-001",
+      "date": "2025-07-21",
+      "day_of_week": "Monday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "08:10",
+        "arrival_time": "09:45",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 35m"
+      },
+      "return_flight": {
+        "departure_time": "18:00",
+        "arrival_time": "19:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,280",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$1,330" },
+        { "platform": "Agoda.com", "price": "A$1,280", "is_best_offer": true },
+        { "platform": "iWoFly", "price": "A$1,360" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0722-001",
+      "date": "2025-07-22",
+      "day_of_week": "Tuesday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "09:30",
+        "arrival_time": "11:00",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "19:00",
+        "arrival_time": "20:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,310",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Virgin Australia", "price": "A$1,350" },
+        { "platform": "Skyscanner", "price": "A$1,310", "is_best_offer": true },
+        { "platform": "Kayak", "price": "A$1,380" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0723-001",
+      "date": "2025-07-23",
+      "day_of_week": "Wednesday",
+      "type_category": "Quickest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "08:20",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 20m"
+      },
+      "return_flight": {
+        "departure_time": "16:00",
+        "arrival_time": "17:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,340",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Qantas", "price": "A$1,390" },
+        { "platform": "Flight Centre", "price": "A$1,340", "is_best_offer": true },
+        { "platform": "Webjet", "price": "A$1,380" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0724-001",
+      "date": "2025-07-24",
+      "day_of_week": "Thursday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "14:00",
+        "arrival_time": "15:30",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "21:00",
+        "arrival_time": "22:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,520",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$1,570" },
+        { "platform": "Trip.com", "price": "A$1,520", "is_best_offer": true },
+        { "platform": "Expedia", "price": "A$1,550" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0725-001",
+      "date": "2025-07-25",
+      "day_of_week": "Friday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "08:10",
+        "arrival_time": "09:45",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 35m"
+      },
+      "return_flight": {
+        "departure_time": "18:00",
+        "arrival_time": "19:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,650",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$1,700" },
+        { "platform": "Agoda.com", "price": "A$1,650", "is_best_offer": true },
+        { "platform": "iWoFly", "price": "A$1,730" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0726-001",
+      "date": "2025-07-26",
+      "day_of_week": "Saturday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "06:00",
+        "arrival_time": "07:40",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 40m"
+      },
+      "return_flight": {
+        "departure_time": "20:55",
+        "arrival_time": "22:20",
+        "origin_airport": "MEL Avalon",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$2,150",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$2,200" },
+        { "platform": "Flightnetwork", "price": "A$2,150", "is_best_offer": true },
+        { "platform": "Booking.com", "price": "A$2,230" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0727-001",
+      "date": "2025-07-27",
+      "day_of_week": "Sunday",
+      "type_category": "Quickest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "08:20",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 20m"
+      },
+      "return_flight": {
+        "departure_time": "16:00",
+        "arrival_time": "17:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$2,300",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Qantas", "price": "A$2,350" },
+        { "platform": "Flight Centre", "price": "A$2,300", "is_best_offer": true },
+        { "platform": "Webjet", "price": "A$2,380" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0728-001",
+      "date": "2025-07-28",
+      "day_of_week": "Monday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "08:10",
+        "arrival_time": "09:45",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 35m"
+      },
+      "return_flight": {
+        "departure_time": "18:00",
+        "arrival_time": "19:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,300",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$1,350" },
+        { "platform": "Agoda.com", "price": "A$1,300", "is_best_offer": true },
+        { "platform": "iWoFly", "price": "A$1,380" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0729-001",
+      "date": "2025-07-29",
+      "day_of_week": "Tuesday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "09:30",
+        "arrival_time": "11:00",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "19:00",
+        "arrival_time": "20:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,330",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Virgin Australia", "price": "A$1,370" },
+        { "platform": "Skyscanner", "price": "A$1,330", "is_best_offer": true },
+        { "platform": "Kayak", "price": "A$1,400" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0730-001",
+      "date": "2025-07-30",
+      "day_of_week": "Wednesday",
+      "type_category": "Quickest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "08:20",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 20m"
+      },
+      "return_flight": {
+        "departure_time": "16:00",
+        "arrival_time": "17:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,360",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Qantas", "price": "A$1,410" },
+        { "platform": "Flight Centre", "price": "A$1,360", "is_best_offer": true },
+        { "platform": "Webjet", "price": "A$1,400" }
+      ]
+    },
+    {
+      "flight_id": "SYDMEL-0731-001",
+      "date": "2025-07-31",
+      "day_of_week": "Thursday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "10:00",
+        "arrival_time": "11:30",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "19:00",
+        "arrival_time": "20:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 25m"
+      },
+      "base_price": "A$1,400",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$1,450" },
+        { "platform": "Trip.com", "price": "A$1,400", "is_best_offer": true },
+        { "platform": "Expedia", "price": "A$1,430" }
+      ]
+    },
+        
+    {
+      "flight_id": "SYDADL-1101-001",
+      "date": "2025-07-06",
+      "day_of_week": "Sunday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "06:30",
+        "arrival_time": "08:15",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "ADL Adelaide",
+        "stops": "direct",
+        "duration": "1h 45m"
+      },
+      "return_flight": {
+        "departure_time": "16:00",
+        "arrival_time": "17:45",
+        "origin_airport": "ADL Adelaide",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 45m"
+      },
+      "base_price": "A$180",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$180", "is_best_offer": true },
+        { "platform": "Virgin Australia", "price": "A$210" },
+        { "platform": "Qantas", "price": "A$250" }
+      ]
+    },
+    {
+      "flight_id": "SYDADL-1102-001",
+      "date": "2025-07-07",
+      "day_of_week": "Sunday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "09:00",
+        "arrival_time": "10:50",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "ADL Adelaide",
+        "stops": "direct",
+        "duration": "1h 50m"
+      },
+      "return_flight": {
+        "departure_time": "19:00",
+        "arrival_time": "20:50",
+        "origin_airport": "ADL Adelaide",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 50m"
+      },
+      "base_price": "A$220",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Virgin Australia", "price": "A$220", "is_best_offer": true },
+        { "platform": "Qantas", "price": "A$280" },
+        { "platform": "Jetstar", "price": "A$200" }
+      ]
+    },
+    {
+      "flight_id": "MELCNS-1105-001",
+      "date": "2025-07-08",
+      "day_of_week": "Wednesday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "10:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "CNS Cairns",
+        "stops": "direct",
+        "duration": "3h 25m"
+      },
+      "return_flight": {
+        "departure_time": "17:00",
+        "arrival_time": "20:25",
+        "origin_airport": "CNS Cairns",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "3h 25m"
+      },
+      "base_price": "A$280",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+        { "platform": "Qantas", "price": "A$350" },
+        { "platform": "Virgin Australia", "price": "A$320" }
+      ]
+    },
+    {
+      "flight_id": "MELCNS-1105-002",
+      "date": "2025-07-09",
+      "day_of_week": "Wednesday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "10:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "CNS Cairns",
+        "stops": "direct",
+        "duration": "3h 25m"
+      },
+      "return_flight": {
+        "departure_time": "17:00",
+        "arrival_time": "20:25",
+        "origin_airport": "CNS Cairns",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "3h 25m"
+      },
+      "base_price": "A$280",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+        { "platform": "Qantas", "price": "A$350" },
+        { "platform": "Virgin Australia", "price": "A$320" }
+      ]
+    },{
+      "flight_id": "MELCNS-1105-003",
+      "date": "2025-07-10",
+      "day_of_week": "Thursday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "10:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "CNS Cairns",
+        "stops": "direct",
+        "duration": "3h 25m"
+      },
+      "return_flight": {
+        "departure_time": "17:00",
+        "arrival_time": "20:25",
+        "origin_airport": "CNS Cairns",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "3h 25m"
+      },
+      "base_price": "A$280",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+        { "platform": "Qantas", "price": "A$350" },
+        { "platform": "Virgin Australia", "price": "A$320" }
+      ]
+    },{
+      "flight_id": "MELCNS-1105-001",
+      "date": "2025-07-08",
+      "day_of_week": "Wednesday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "10:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "CNS Cairns",
+        "stops": "direct",
+        "duration": "3h 25m"
+      },
+      "return_flight": {
+        "departure_time": "17:00",
+        "arrival_time": "20:25",
+        "origin_airport": "CNS Cairns",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "3h 25m"
+      },
+      "base_price": "A$280",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+        { "platform": "Qantas", "price": "A$350" },
+        { "platform": "Virgin Australia", "price": "A$320" }
+      ]
+    },
+    {
+      "flight_id": "MELCNS-1106-001",
+      "date": "2025-11-06",
+      "day_of_week": "Thursday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "11:00",
+        "arrival_time": "14:25",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "CNS Cairns",
+        "stops": "direct",
+        "duration": "3h 25m"
+      },
+      "return_flight": {
+        "departure_time": "20:00",
+        "arrival_time": "23:25",
+        "origin_airport": "CNS Cairns",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "3h 25m"
+      },
+      "base_price": "A$320",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Qantas", "price": "A$380" },
+        { "platform": "Virgin Australia", "price": "A$320", "is_best_offer": true },
+        { "platform": "Jetstar", "price": "A$300" }
+      ]
+    },
+    {
+      "flight_id": "BNEOOL-1110-001",
+      "date": "2025-11-10",
+      "day_of_week": "Monday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "08:00",
+        "arrival_time": "08:45",
+        "origin_airport": "BNE Brisbane",
+        "destination_airport": "OOL Gold Coast",
+        "stops": "direct",
+        "duration": "0h 45m"
+      },
+      "return_flight": {
+        "departure_time": "17:00",
+        "arrival_time": "17:45",
+        "origin_airport": "OOL Gold Coast",
+        "destination_airport": "BNE Brisbane",
+        "stops": "direct",
+        "duration": "0h 45m"
+      },
+      "base_price": "A$90",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$90", "is_best_offer": true },
+        { "platform": "QantasLink", "price": "A$120" }
+      ]
+    },
+    {
+      "flight_id": "BNEOOL-1111-001",
+      "date": "2025-11-11",
+      "day_of_week": "Tuesday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "10:00",
+        "arrival_time": "10:45",
+        "origin_airport": "BNE Brisbane",
+        "destination_airport": "OOL Gold Coast",
+        "stops": "direct",
+        "duration": "0h 45m"
+      },
+      "return_flight": {
+        "departure_time": "19:00",
+        "arrival_time": "19:45",
+        "origin_airport": "OOL Gold Coast",
+        "destination_airport": "BNE Brisbane",
+        "stops": "direct",
+        "duration": "0h 45m"
+      },
+      "base_price": "A$110",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Virgin Australia", "price": "A$110", "is_best_offer": true },
+        { "platform": "QantasLink", "price": "A$140" }
+      ]
+    },
+    {
+      "flight_id": "PERDRW-1115-001",
+      "date": "2025-11-15",
+      "day_of_week": "Saturday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "08:00",
+        "arrival_time": "11:30",
+        "origin_airport": "PER Perth",
+        "destination_airport": "DRW Darwin",
+        "stops": "direct",
+        "duration": "3h 30m"
+      },
+      "return_flight": {
+        "departure_time": "18:00",
+        "arrival_time": "21:30",
+        "origin_airport": "DRW Darwin",
+        "destination_airport": "PER Perth",
+        "stops": "direct",
+        "duration": "3h 30m"
+      },
+      "base_price": "A$380",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Virgin Australia", "price": "A$380", "is_best_offer": true },
+        { "platform": "Qantas", "price": "A$450" }
+      ]
+    },
+    {
+      "flight_id": "PERDRW-1116-001",
+      "date": "2025-11-16",
+      "day_of_week": "Sunday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "10:00",
+        "arrival_time": "13:30",
+        "origin_airport": "PER Perth",
+        "destination_airport": "DRW Darwin",
+        "stops": "direct",
+        "duration": "3h 30m"
+      },
+      "return_flight": {
+        "departure_time": "20:00",
+        "arrival_time": "23:30",
+        "origin_airport": "DRW Darwin",
+        "destination_airport": "PER Perth",
+        "stops": "direct",
+        "duration": "3h 30m"
+      },
+      "base_price": "A$420",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Qantas", "price": "A$480" },
+        { "platform": "Virgin Australia", "price": "A$420", "is_best_offer": true }
+      ]
+    },
+    {
+      "flight_id": "SYDCBR-1120-001",
+      "date": "2025-11-20",
+      "day_of_week": "Thursday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "07:55",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "CBR Canberra",
+        "stops": "direct",
+        "duration": "0h 55m"
+      },
+      "return_flight": {
+        "departure_time": "17:00",
+        "arrival_time": "17:55",
+        "origin_airport": "CBR Canberra",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "0h 55m"
+      },
+      "base_price": "A$120",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "QantasLink", "price": "A$120", "is_best_offer": true },
+        { "platform": "Virgin Australia", "price": "A$150" }
+      ]
+    },
+    {
+      "flight_id": "SYDCBR-1121-001",
+      "date": "2025-11-21",
+      "day_of_week": "Friday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "09:00",
+        "arrival_time": "09:55",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "CBR Canberra",
+        "stops": "direct",
+        "duration": "0h 55m"
+      },
+      "return_flight": {
+        "departure_time": "19:00",
+        "arrival_time": "19:55",
+        "origin_airport": "CBR Canberra",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "0h 55m"
+      },
+      "base_price": "A$150",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Virgin Australia", "price": "A$150", "is_best_offer": true },
+        { "platform": "QantasLink", "price": "A$180" }
+      ]
+    },
+    {
+      "flight_id": "MELHBA-1125-001",
+      "date": "2025-11-25",
+      "day_of_week": "Tuesday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "06:00",
+        "arrival_time": "07:20",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "HBA Hobart",
+        "stops": "direct",
+        "duration": "1h 20m"
+      },
+      "return_flight": {
+        "departure_time": "16:00",
+        "arrival_time": "17:20",
+        "origin_airport": "HBA Hobart",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 20m"
+      },
+      "base_price": "A$110",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$110", "is_best_offer": true },
+        { "platform": "Virgin Australia", "price": "A$140" },
+        { "platform": "QantasLink", "price": "A$160" }
+      ]
+    },
+    {
+      "flight_id": "MELHBA-1126-001",
+      "date": "2025-11-26",
+      "day_of_week": "Wednesday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "08:00",
+        "arrival_time": "09:20",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "HBA Hobart",
+        "stops": "direct",
+        "duration": "1h 20m"
+      },
+      "return_flight": {
+        "departure_time": "18:00",
+        "arrival_time": "19:20",
+        "origin_airport": "HBA Hobart",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 20m"
+      },
+      "base_price": "A$130",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Virgin Australia", "price": "A$130", "is_best_offer": true },
+        { "platform": "QantasLink", "price": "A$170" },
+        { "platform": "Jetstar", "price": "A$120" }
+      ]
+    },
+    {
+      "flight_id": "SYDBNE-1201-001",
+      "date": "2025-12-01",
+      "day_of_week": "Monday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "08:30",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "BNE Brisbane",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "17:00",
+        "arrival_time": "18:30",
+        "origin_airport": "BNE Brisbane",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "base_price": "A$120",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$120", "is_best_offer": true },
+        { "platform": "Virgin Australia", "price": "A$150" },
+        { "platform": "Qantas", "price": "A$180" }
+      ]
+    },
+    {
+      "flight_id": "MELPER-1205-001",
+      "date": "2025-12-05",
+      "day_of_week": "Friday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "09:00",
+        "arrival_time": "12:00",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "PER Perth",
+        "stops": "direct",
+        "duration": "4h 00m"
+      },
+      "return_flight": {
+        "departure_time": "18:00",
+        "arrival_time": "23:00",
+        "origin_airport": "PER Perth",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "4h 00m"
+      },
+      "base_price": "A$400",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Qantas", "price": "A$450" },
+        { "platform": "Virgin Australia", "price": "A$400", "is_best_offer": true },
+        { "platform": "Jetstar", "price": "A$380" }
+      ]
+    },
+    {
+      "flight_id": "BNEADL-1210-001",
+      "date": "2025-12-10",
+      "day_of_week": "Wednesday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "08:00",
+        "arrival_time": "09:50",
+        "origin_airport": "BNE Brisbane",
+        "destination_airport": "ADL Adelaide",
+        "stops": "direct",
+        "duration": "1h 50m"
+      },
+      "return_flight": {
+        "departure_time": "17:00",
+        "arrival_time": "18:50",
+        "origin_airport": "ADL Adelaide",
+        "destination_airport": "BNE Brisbane",
+        "stops": "direct",
+        "duration": "1h 50m"
+      },
+      "base_price": "A$180",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$180", "is_best_offer": true },
+        { "platform": "Qantas", "price": "A$220" },
+        { "platform": "Virgin Australia", "price": "A$200" }
+      ]
+    },
+    {
+      "flight_id": "CNSADL-1215-001",
+      "date": "2025-12-15",
+      "day_of_week": "Monday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "10:00",
+        "arrival_time": "13:30",
+        "origin_airport": "CNS Cairns",
+        "destination_airport": "ADL Adelaide",
+        "stops": "1 stop",
+        "duration": "3h 30m"
+      },
+      "return_flight": {
+        "departure_time": "19:00",
+        "arrival_time": "22:30",
+        "origin_airport": "ADL Adelaide",
+        "destination_airport": "CNS Cairns",
+        "stops": "1 stop",
+        "duration": "3h 30m"
+      },
+      "base_price": "A$350",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Qantas", "price": "A$380" },
+        { "platform": "Virgin Australia", "price": "A$350", "is_best_offer": true },
+        { "platform": "Jetstar", "price": "A$320" }
+      ]
+    },
+    {
+      "flight_id": "OOLSYD-1220-001",
+      "date": "2025-12-20",
+      "day_of_week": "Saturday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "07:00",
+        "arrival_time": "08:30",
+        "origin_airport": "OOL Gold Coast",
+        "destination_airport": "SYD Kingsford S...",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "return_flight": {
+        "departure_time": "17:00",
+        "arrival_time": "18:30",
+        "origin_airport": "SYD Kingsford S...",
+        "destination_airport": "OOL Gold Coast",
+        "stops": "direct",
+        "duration": "1h 30m"
+      },
+      "base_price": "A$130",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$130", "is_best_offer": true },
+        { "platform": "Virgin Australia", "price": "A$160" },
+        { "platform": "Qantas", "price": "A$190" }
+      ]
+    },
+    {
+      "flight_id": "CBRMEL-1225-001",
+      "date": "2025-12-25",
+      "day_of_week": "Thursday",
+      "type_category": "Best",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "09:00",
+        "arrival_time": "10:15",
+        "origin_airport": "CBR Canberra",
+        "destination_airport": "MEL Melbourne",
+        "stops": "direct",
+        "duration": "1h 15m"
+      },
+      "return_flight": {
+        "departure_time": "19:00",
+        "arrival_time": "20:15",
+        "origin_airport": "MEL Melbourne",
+        "destination_airport": "CBR Canberra",
+        "stops": "direct",
+        "duration": "1h 15m"
+      },
+      "base_price": "A$160",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Virgin Australia", "price": "A$160", "is_best_offer": true },
+        { "platform": "QantasLink", "price": "A$190" }
+      ]
+    },
+    {
+      "flight_id": "DRWBNE-1230-001",
+      "date": "2025-12-30",
+      "day_of_week": "Tuesday",
+      "type_category": "Cheapest",
+      "is_cheapest_in_category": true,
+      "outbound_flight": {
+        "departure_time": "11:00",
+        "arrival_time": "14:30",
+        "origin_airport": "DRW Darwin",
+        "destination_airport": "BNE Brisbane",
+        "stops": "1 stop",
+        "duration": "3h 30m"
+      },
+      "return_flight": {
+        "departure_time": "20:00",
+        "arrival_time": "23:30",
+        "origin_airport": "BNE Brisbane",
+        "destination_airport": "DRW Darwin",
+        "stops": "1 stop",
+        "duration": "3h 30m"
+      },
+      "base_price": "A$400",
+      "currency": "AUD",
+      "fare_type": "Economy",
+      "booking_options": [
+        { "platform": "Jetstar", "price": "A$400", "is_best_offer": true },
+        { "platform": "Qantas", "price": "A$480" },
+        { "platform": "Virgin Australia", "price": "A$450" }
+      ]
+    }
+
+  ]
+}

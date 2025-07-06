@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Demand Analyzer</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles for Inter font */
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen p-4">
+    <div class="bg-white p-8 rounded-xl shadow-lg w-full max-w-md">
+        <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">Flight Demand Analyzer</h1>
+        <p class="text-center text-gray-600 mb-8">Select flight details to analyze demand and trends.</p>
+
+        {% if error %}
+            <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded-lg relative mb-6" role="alert">
+                <strong class="font-bold">Error!</strong>
+                <span class="block sm:inline">{{ error }}</span>
+            </div>
+        {% endif %}
+
+        <form action="/" method="POST" class="space-y-6">
+            <div>
+                <label for="origin" class="block text-sm font-medium text-gray-700 mb-1">Origin Airport</label>
+                <select id="origin" name="origin" required
+                        class="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-lg shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm uppercase">
+                    <option value="" disabled selected>Select Origin Airport</option>
+                    <option value="SYD">SYD - Sydney Kingsford Smith Airport</option>
+                    <option value="MEL">MEL - Melbourne Airport</option>
+                    <option value="BNE">BNE - Brisbane Airport</option>
+                    <option value="PER">PER - Perth Airport</option>
+                    <option value="ADL">ADL - Adelaide Airport</option>
+                    <option value="CNS">CNS - Cairns Airport</option>
+                    <option value="OOL">OOL - Gold Coast Airport</option>
+                    <option value="CBR">CBR - Canberra Airport</option>
+                    <option value="DRW">DRW - Darwin International Airport</option>
+                    <option value="HBA">HBA - Hobart Airport</option>
+                </select>
+            </div>
+            <div>
+                <label for="destination" class="block text-sm font-medium text-gray-700 mb-1">Destination Airport</label>
+                <select id="destination" name="destination" required
+                        class="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-lg shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm uppercase">
+                    <option value="" disabled selected>Select Destination Airport</option>
+                    <option value="SYD">SYD - Sydney Kingsford Smith Airport</option>
+                    <option value="MEL">MEL - Melbourne Airport</option>
+                    <option value="BNE">BNE - Brisbane Airport</option>
+                    <option value="PER">PER - Perth Airport</option>
+                    <option value="ADL">ADL - Adelaide Airport</option>
+                    <option value="CNS">CNS - Cairns Airport</option>
+                    <option value="OOL">OOL - Gold Coast Airport</option>
+                    <option value="CBR">CBR - Canberra Airport</option>
+                    <option value="DRW">DRW - Darwin International Airport</option>
+                    <option value="HBA">HBA - Hobart Airport</option>
+                </select>
+            </div>
+            <div>
+                <label for="start_date" class="block text-sm font-medium text-gray-700 mb-1">Start Date</label>
+                <input type="date" id="start_date" name="start_date" required
+                       class="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-lg shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+            </div>
+            <div>
+                <label for="end_date" class="block text-sm font-medium text-gray-700 mb-1">End Date (Max 180 days from Start Date for demo)</label>
+                <input type="date" id="end_date" name="end_date" required
+                       class="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-lg shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+            </div>
+            <button type="submit"
+                    class="w-full flex justify-center py-2 px-4 border border-transparent rounded-lg shadow-sm text-lg font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition duration-150 ease-in-out">
+                Analyze Demand
+            </button>
+        </form>
+    </div>
+</body>
+</html>
