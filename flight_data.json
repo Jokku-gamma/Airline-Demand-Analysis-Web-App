@@ -2,7 +2,7 @@
   "search_parameters": {
     "origin": "SYD",
     "destination": "MEL",
-    "start_date": "2025-07-01",
+    "start_date": "2025-07-06",
     "end_date": "2025-09-30",
     "adults": 1,
     "cabin_class": "Economy"
@@ -62,7 +62,7 @@
     },
     {
       "flight_id": "SYDMEL-0702-001",
-      "date": "2025-07-02",
+      "date": "2025-07-07",
       "day_of_week": "Wednesday",
       "type_category": "Best",
       "is_cheapest_in_category": true,
@@ -93,7 +93,7 @@
     },
     {
       "flight_id": "SYDMEL-0703-001",
-      "date": "2025-07-03",
+      "date": "2025-07-08",
       "day_of_week": "Thursday",
       "type_category": "Quickest",
       "is_cheapest_in_category": true,
@@ -124,7 +124,7 @@
     },
     {
       "flight_id": "SYDMEL-0704-001",
-      "date": "2025-07-04",
+      "date": "2025-07-09",
       "day_of_week": "Friday",
       "type_category": "Best",
       "is_cheapest_in_category": true,
@@ -155,7 +155,7 @@
     },
     {
       "flight_id": "SYDMEL-0705-001",
-      "date": "2025-07-05",
+      "date": "2025-07-10",
       "day_of_week": "Saturday",
       "type_category": "Cheapest",
       "is_cheapest_in_category": true,
@@ -186,7 +186,7 @@
     },
     {
       "flight_id": "SYDMEL-0706-001",
-      "date": "2025-07-06",
+      "date": "2025-07-11",
       "day_of_week": "Sunday",
       "type_category": "Best",
       "is_cheapest_in_category": true,
@@ -248,7 +248,7 @@
     },
     {
       "flight_id": "SYDMEL-0708-001",
-      "date": "2025-07-08",
+      "date": "2025-07-12",
       "day_of_week": "Tuesday",
       "type_category": "Best",
       "is_cheapest_in_category": true,
@@ -279,7 +279,7 @@
     },
     {
       "flight_id": "SYDMEL-0709-001",
-      "date": "2025-07-09",
+      "date": "2025-07-13",
       "day_of_week": "Wednesday",
       "type_category": "Quickest",
       "is_cheapest_in_category": true,
@@ -310,7 +310,7 @@
     },
     {
       "flight_id": "SYDMEL-0710-001",
-      "date": "2025-07-10",
+      "date": "2025-07-14",
       "day_of_week": "Thursday",
       "type_category": "Best",
       "is_cheapest_in_category": true,
@@ -341,7 +341,7 @@
     },
     {
       "flight_id": "SYDMEL-0711-001",
-      "date": "2025-07-11",
+      "date": "2025-07-15",
       "day_of_week": "Friday",
       "type_category": "Cheapest",
       "is_cheapest_in_category": true,
@@ -372,7 +372,7 @@
     },
     {
       "flight_id": "SYDMEL-0712-001",
-      "date": "2025-07-12",
+      "date": "2025-07-16",
       "day_of_week": "Saturday",
       "type_category": "Best",
       "is_cheapest_in_category": true,
@@ -403,7 +403,7 @@
     },
     {
       "flight_id": "SYDMEL-0713-001",
-      "date": "2025-07-13",
+      "date": "2025-07-17",
       "day_of_week": "Sunday",
       "type_category": "Quickest",
       "is_cheapest_in_category": true,
@@ -434,7 +434,7 @@
     },
     {
       "flight_id": "SYDMEL-0714-001",
-      "date": "2025-07-14",
+      "date": "2025-07-18",
       "day_of_week": "Monday",
       "type_category": "Cheapest",
       "is_cheapest_in_category": true,
@@ -465,7 +465,7 @@
     },
     {
       "flight_id": "SYDMEL-0715-001",
-      "date": "2025-07-15",
+      "date": "2025-07-19",
       "day_of_week": "Tuesday",
       "type_category": "Best",
       "is_cheapest_in_category": true,
@@ -496,7 +496,7 @@
     },
     {
       "flight_id": "SYDMEL-0716-001",
-      "date": "2025-07-16",
+      "date": "2025-07-20",
       "day_of_week": "Wednesday",
       "type_category": "Quickest",
       "is_cheapest_in_category": true,
@@ -527,7 +527,7 @@
     },
     {
       "flight_id": "SYDMEL-0717-001",
-      "date": "2025-07-17",
+      "date": "2025-07-21",
       "day_of_week": "Thursday",
       "type_category": "Best",
       "is_cheapest_in_category": true,
@@ -558,7 +558,7 @@
     },
     {
       "flight_id": "SYDMEL-0718-001",
-      "date": "2025-07-18",
+      "date": "2025-07-22",
       "day_of_week": "Friday",
       "type_category": "Cheapest",
       "is_cheapest_in_category": true,
@@ -589,7 +589,7 @@
     },
     {
       "flight_id": "SYDMEL-0719-001",
-      "date": "2025-07-19",
+      "date": "2025-07-23",
       "day_of_week": "Saturday",
       "type_category": "Best",
       "is_cheapest_in_category": true,
@@ -620,7 +620,7 @@
     },
     {
       "flight_id": "SYDMEL-0720-001",
-      "date": "2025-07-20",
+      "date": "2025-07-24",
       "day_of_week": "Sunday",
       "type_category": "Quickest",
       "is_cheapest_in_category": true,
@@ -651,7 +651,7 @@
     },
     {
       "flight_id": "SYDMEL-0721-001",
-      "date": "2025-07-21",
+      "date": "2025-07-25",
       "day_of_week": "Monday",
       "type_category": "Cheapest",
       "is_cheapest_in_category": true,
@@ -682,7 +682,7 @@
     },
     {
       "flight_id": "SYDMEL-0722-001",
-      "date": "2025-07-22",
+      "date": "2025-07-26",
       "day_of_week": "Tuesday",
       "type_category": "Best",
       "is_cheapest_in_category": true,
@@ -713,7 +713,7 @@
     },
     {
       "flight_id": "SYDMEL-0723-001",
-      "date": "2025-07-23",
+      "date": "2025-07-27",
       "day_of_week": "Wednesday",
       "type_category": "Quickest",
       "is_cheapest_in_category": true,
@@ -744,7 +744,7 @@
     },
     {
       "flight_id": "SYDMEL-0724-001",
-      "date": "2025-07-24",
+      "date": "2025-07-28",
       "day_of_week": "Thursday",
       "type_category": "Best",
       "is_cheapest_in_category": true,
@@ -775,7 +775,7 @@
     },
     {
       "flight_id": "SYDMEL-0725-001",
-      "date": "2025-07-25",
+      "date": "2025-07-29",
       "day_of_week": "Friday",
       "type_category": "Cheapest",
       "is_cheapest_in_category": true,
@@ -802,130 +802,6 @@
         { "platform": "Jetstar", "price": "A$1,700" },
         { "platform": "Agoda.com", "price": "A$1,650", "is_best_offer": true },
         { "platform": "iWoFly", "price": "A$1,730" }
-      ]
-    },
-    {
-      "flight_id": "SYDMEL-0726-001",
-      "date": "2025-07-26",
-      "day_of_week": "Saturday",
-      "type_category": "Best",
-      "is_cheapest_in_category": true,
-      "outbound_flight": {
-        "departure_time": "06:00",
-        "arrival_time": "07:40",
-        "origin_airport": "SYD Kingsford S...",
-        "destination_airport": "MEL Melbourne",
-        "stops": "direct",
-        "duration": "1h 40m"
-      },
-      "return_flight": {
-        "departure_time": "20:55",
-        "arrival_time": "22:20",
-        "origin_airport": "MEL Avalon",
-        "destination_airport": "SYD Kingsford S...",
-        "stops": "direct",
-        "duration": "1h 25m"
-      },
-      "base_price": "A$2,150",
-      "currency": "AUD",
-      "fare_type": "Economy",
-      "booking_options": [
-        { "platform": "Jetstar", "price": "A$2,200" },
-        { "platform": "Flightnetwork", "price": "A$2,150", "is_best_offer": true },
-        { "platform": "Booking.com", "price": "A$2,230" }
-      ]
-    },
-    {
-      "flight_id": "SYDMEL-0727-001",
-      "date": "2025-07-27",
-      "day_of_week": "Sunday",
-      "type_category": "Quickest",
-      "is_cheapest_in_category": true,
-      "outbound_flight": {
-        "departure_time": "07:00",
-        "arrival_time": "08:20",
-        "origin_airport": "SYD Kingsford S...",
-        "destination_airport": "MEL Melbourne",
-        "stops": "direct",
-        "duration": "1h 20m"
-      },
-      "return_flight": {
-        "departure_time": "16:00",
-        "arrival_time": "17:25",
-        "origin_airport": "MEL Melbourne",
-        "destination_airport": "SYD Kingsford S...",
-        "stops": "direct",
-        "duration": "1h 25m"
-      },
-      "base_price": "A$2,300",
-      "currency": "AUD",
-      "fare_type": "Economy",
-      "booking_options": [
-        { "platform": "Qantas", "price": "A$2,350" },
-        { "platform": "Flight Centre", "price": "A$2,300", "is_best_offer": true },
-        { "platform": "Webjet", "price": "A$2,380" }
-      ]
-    },
-    {
-      "flight_id": "SYDMEL-0728-001",
-      "date": "2025-07-28",
-      "day_of_week": "Monday",
-      "type_category": "Cheapest",
-      "is_cheapest_in_category": true,
-      "outbound_flight": {
-        "departure_time": "08:10",
-        "arrival_time": "09:45",
-        "origin_airport": "SYD Kingsford S...",
-        "destination_airport": "MEL Melbourne",
-        "stops": "direct",
-        "duration": "1h 35m"
-      },
-      "return_flight": {
-        "departure_time": "18:00",
-        "arrival_time": "19:25",
-        "origin_airport": "MEL Melbourne",
-        "destination_airport": "SYD Kingsford S...",
-        "stops": "direct",
-        "duration": "1h 25m"
-      },
-      "base_price": "A$1,300",
-      "currency": "AUD",
-      "fare_type": "Economy",
-      "booking_options": [
-        { "platform": "Jetstar", "price": "A$1,350" },
-        { "platform": "Agoda.com", "price": "A$1,300", "is_best_offer": true },
-        { "platform": "iWoFly", "price": "A$1,380" }
-      ]
-    },
-    {
-      "flight_id": "SYDMEL-0729-001",
-      "date": "2025-07-29",
-      "day_of_week": "Tuesday",
-      "type_category": "Best",
-      "is_cheapest_in_category": true,
-      "outbound_flight": {
-        "departure_time": "09:30",
-        "arrival_time": "11:00",
-        "origin_airport": "SYD Kingsford S...",
-        "destination_airport": "MEL Melbourne",
-        "stops": "direct",
-        "duration": "1h 30m"
-      },
-      "return_flight": {
-        "departure_time": "19:00",
-        "arrival_time": "20:25",
-        "origin_airport": "MEL Melbourne",
-        "destination_airport": "SYD Kingsford S...",
-        "stops": "direct",
-        "duration": "1h 25m"
-      },
-      "base_price": "A$1,330",
-      "currency": "AUD",
-      "fare_type": "Economy",
-      "booking_options": [
-        { "platform": "Virgin Australia", "price": "A$1,370" },
-        { "platform": "Skyscanner", "price": "A$1,330", "is_best_offer": true },
-        { "platform": "Kayak", "price": "A$1,400" }
       ]
     },
     {
@@ -1025,7 +901,7 @@
     {
       "flight_id": "SYDADL-1102-001",
       "date": "2025-07-07",
-      "day_of_week": "Sunday",
+      "day_of_week": "Monday",
       "type_category": "Best",
       "is_cheapest_in_category": true,
       "outbound_flight": {
@@ -1053,6 +929,416 @@
         { "platform": "Jetstar", "price": "A$200" }
       ]
     },
+    
+  {
+    "flight_id": "SYDADL-1103-001",
+    "date": "2025-07-08",
+    "day_of_week": "Tuesday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "09:00",
+      "arrival_time": "10:45",
+      "origin_airport": "SYD Kingsford S...",
+      "destination_airport": "ADL Adelaide",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "return_flight": {
+      "departure_time": "18:00",
+      "arrival_time": "19:45",
+      "origin_airport": "ADL Adelaide",
+      "destination_airport": "SYD Kingsford S...",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "base_price": "A$210",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$210", "is_best_offer": true },
+      { "platform": "Virgin Australia", "price": "A$250" },
+      { "platform": "Qantas", "price": "A$270" }
+    ]
+  },
+  {
+    "flight_id": "SYDADL-1104-001",
+    "date": "2025-07-09",
+    "day_of_week": "Wednesday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:15",
+      "arrival_time": "09:00",
+      "origin_airport": "SYD Kingsford S...",
+      "destination_airport": "ADL Adelaide",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "return_flight": {
+      "departure_time": "16:15",
+      "arrival_time": "18:00",
+      "origin_airport": "ADL Adelaide",
+      "destination_airport": "SYD Kingsford S...",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "base_price": "A$235",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$235" },
+      { "platform": "Virgin Australia", "price": "A$265", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$295" }
+    ]
+  },
+  {
+    "flight_id": "SYDADL-1105-001",
+    "date": "2025-07-10",
+    "day_of_week": "Thursday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "06:30",
+      "arrival_time": "08:15",
+      "origin_airport": "SYD Kingsford S...",
+      "destination_airport": "ADL Adelaide",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "return_flight": {
+      "departure_time": "15:30",
+      "arrival_time": "17:15",
+      "origin_airport": "ADL Adelaide",
+      "destination_airport": "SYD Kingsford S...",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "base_price": "A$180",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$180", "is_best_offer": true },
+      { "platform": "Virgin Australia", "price": "A$220" },
+      { "platform": "Qantas", "price": "A$250" }
+    ]
+  },
+  {
+    "flight_id": "SYDADL-1106-001",
+    "date": "2025-07-11",
+    "day_of_week": "Friday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "08:45",
+      "arrival_time": "10:30",
+      "origin_airport": "SYD Kingsford S...",
+      "destination_airport": "ADL Adelaide",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "return_flight": {
+      "departure_time": "18:30",
+      "arrival_time": "20:15",
+      "origin_airport": "ADL Adelaide",
+      "destination_airport": "SYD Kingsford S...",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "base_price": "A$230",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$230" },
+      { "platform": "Virgin Australia", "price": "A$260", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$290" }
+    ]
+  },
+  {
+    "flight_id": "SYDADL-1107-001",
+    "date": "2025-07-12",
+    "day_of_week": "Saturday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:45",
+      "arrival_time": "09:30",
+      "origin_airport": "SYD Kingsford S...",
+      "destination_airport": "ADL Adelaide",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "return_flight": {
+      "departure_time": "17:45",
+      "arrival_time": "19:30",
+      "origin_airport": "ADL Adelaide",
+      "destination_airport": "SYD Kingsford S...",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "base_price": "A$190",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$190", "is_best_offer": true },
+      { "platform": "Virgin Australia", "price": "A$230" },
+      { "platform": "Qantas", "price": "A$260" }
+    ]
+  },
+  {
+    "flight_id": "SYDADL-1108-001",
+    "date": "2025-07-13",
+    "day_of_week": "Sunday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "10:00",
+      "arrival_time": "11:45",
+      "origin_airport": "SYD Kingsford S...",
+      "destination_airport": "ADL Adelaide",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "return_flight": {
+      "departure_time": "20:00",
+      "arrival_time": "21:45",
+      "origin_airport": "ADL Adelaide",
+      "destination_airport": "SYD Kingsford S...",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "base_price": "A$220",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$220" },
+      { "platform": "Virgin Australia", "price": "A$255", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$285" }
+    ]
+  },
+  
+  {
+    "flight_id": "SYDADL-1109-001",
+    "date": "2025-07-14",
+    "day_of_week": "Monday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "06:30",
+      "arrival_time": "08:15",
+      "origin_airport": "SYD Kingsford S...",
+      "destination_airport": "ADL Adelaide",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "return_flight": {
+      "departure_time": "15:30",
+      "arrival_time": "17:15",
+      "origin_airport": "ADL Adelaide",
+      "destination_airport": "SYD Kingsford S...",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "base_price": "A$185",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$185", "is_best_offer": true },
+      { "platform": "Virgin Australia", "price": "A$215" },
+      { "platform": "Qantas", "price": "A$245" }
+    ]
+  },
+  {
+    "flight_id": "SYDADL-1110-001",
+    "date": "2025-07-15",
+    "day_of_week": "Tuesday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "09:15",
+      "arrival_time": "11:00",
+      "origin_airport": "SYD Kingsford S...",
+      "destination_airport": "ADL Adelaide",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "return_flight": {
+      "departure_time": "18:15",
+      "arrival_time": "20:00",
+      "origin_airport": "ADL Adelaide",
+      "destination_airport": "SYD Kingsford S...",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "base_price": "A$225",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$225" },
+      { "platform": "Virgin Australia", "price": "A$255", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$285" }
+    ]
+  },
+  {
+    "flight_id": "SYDADL-1111-001",
+    "date": "2025-07-16",
+    "day_of_week": "Wednesday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:45",
+      "arrival_time": "09:30",
+      "origin_airport": "SYD Kingsford S...",
+      "destination_airport": "ADL Adelaide",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "return_flight": {
+      "departure_time": "17:30",
+      "arrival_time": "19:15",
+      "origin_airport": "ADL Adelaide",
+      "destination_airport": "SYD Kingsford S...",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "base_price": "A$200",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$200", "is_best_offer": true },
+      { "platform": "Virgin Australia", "price": "A$235" },
+      { "platform": "Qantas", "price": "A$265" }
+    ]
+  },
+  {
+    "flight_id": "SYDADL-1112-001",
+    "date": "2025-07-17",
+    "day_of_week": "Thursday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "08:30",
+      "arrival_time": "10:15",
+      "origin_airport": "SYD Kingsford S...",
+      "destination_airport": "ADL Adelaide",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "return_flight": {
+      "departure_time": "19:00",
+      "arrival_time": "20:45",
+      "origin_airport": "ADL Adelaide",
+      "destination_airport": "SYD Kingsford S...",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "base_price": "A$240",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$240" },
+      { "platform": "Virgin Australia", "price": "A$270", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$300" }
+    ]
+  },
+  {
+    "flight_id": "SYDADL-1113-001",
+    "date": "2025-07-18",
+    "day_of_week": "Friday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "06:45",
+      "arrival_time": "08:30",
+      "origin_airport": "SYD Kingsford S...",
+      "destination_airport": "ADL Adelaide",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "18:45",
+      "origin_airport": "ADL Adelaide",
+      "destination_airport": "SYD Kingsford S...",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "base_price": "A$195",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$195", "is_best_offer": true },
+      { "platform": "Virgin Australia", "price": "A$225" },
+      { "platform": "Qantas", "price": "A$255" }
+    ]
+  },
+  {
+    "flight_id": "SYDADL-1114-001",
+    "date": "2025-07-19",
+    "day_of_week": "Saturday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "09:00",
+      "arrival_time": "10:45",
+      "origin_airport": "SYD Kingsford S...",
+      "destination_airport": "ADL Adelaide",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "return_flight": {
+      "departure_time": "18:30",
+      "arrival_time": "20:15",
+      "origin_airport": "ADL Adelaide",
+      "destination_airport": "SYD Kingsford S...",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "base_price": "A$230",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$230" },
+      { "platform": "Virgin Australia", "price": "A$260", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$290" }
+    ]
+  },
+  {
+    "flight_id": "SYDADL-1115-001",
+    "date": "2025-07-20",
+    "day_of_week": "Sunday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:30",
+      "arrival_time": "09:15",
+      "origin_airport": "SYD Kingsford S...",
+      "destination_airport": "ADL Adelaide",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "return_flight": {
+      "departure_time": "17:15",
+      "arrival_time": "19:00",
+      "origin_airport": "ADL Adelaide",
+      "destination_airport": "SYD Kingsford S...",
+      "stops": "direct",
+      "duration": "1h 45m"
+    },
+    "base_price": "A$200",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$200", "is_best_offer": true },
+      { "platform": "Virgin Australia", "price": "A$240" },
+      { "platform": "Qantas", "price": "A$270" }
+    ]
+  },
+
+
+
+
+
     {
       "flight_id": "MELCNS-1105-001",
       "date": "2025-07-08",
@@ -1144,68 +1430,790 @@
         { "platform": "Qantas", "price": "A$350" },
         { "platform": "Virgin Australia", "price": "A$320" }
       ]
-    },{
-      "flight_id": "MELCNS-1105-001",
-      "date": "2025-07-08",
-      "day_of_week": "Wednesday",
-      "type_category": "Cheapest",
-      "is_cheapest_in_category": true,
-      "outbound_flight": {
-        "departure_time": "07:00",
-        "arrival_time": "10:25",
-        "origin_airport": "MEL Melbourne",
-        "destination_airport": "CNS Cairns",
-        "stops": "direct",
-        "duration": "3h 25m"
-      },
-      "return_flight": {
-        "departure_time": "17:00",
-        "arrival_time": "20:25",
-        "origin_airport": "CNS Cairns",
-        "destination_airport": "MEL Melbourne",
-        "stops": "direct",
-        "duration": "3h 25m"
-      },
-      "base_price": "A$280",
-      "currency": "AUD",
-      "fare_type": "Economy",
-      "booking_options": [
-        { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
-        { "platform": "Qantas", "price": "A$350" },
-        { "platform": "Virgin Australia", "price": "A$320" }
-      ]
     },
-    {
-      "flight_id": "MELCNS-1106-001",
-      "date": "2025-11-06",
-      "day_of_week": "Thursday",
-      "type_category": "Best",
-      "is_cheapest_in_category": true,
-      "outbound_flight": {
-        "departure_time": "11:00",
-        "arrival_time": "14:25",
-        "origin_airport": "MEL Melbourne",
-        "destination_airport": "CNS Cairns",
-        "stops": "direct",
-        "duration": "3h 25m"
-      },
-      "return_flight": {
-        "departure_time": "20:00",
-        "arrival_time": "23:25",
-        "origin_airport": "CNS Cairns",
-        "destination_airport": "MEL Melbourne",
-        "stops": "direct",
-        "duration": "3h 25m"
-      },
-      "base_price": "A$320",
-      "currency": "AUD",
-      "fare_type": "Economy",
-      "booking_options": [
-        { "platform": "Qantas", "price": "A$380" },
-        { "platform": "Virgin Australia", "price": "A$320", "is_best_offer": true },
-        { "platform": "Jetstar", "price": "A$300" }
-      ]
+    
+  {
+    "flight_id": "MELCNS-1105-003",
+    "date": "2025-07-10",
+    "day_of_week": "Thursday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
     },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$280",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$350" },
+      { "platform": "Virgin Australia", "price": "A$320" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-004",
+    "date": "2025-07-11",
+    "day_of_week": "Friday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$280",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$350" },
+      { "platform": "Virgin Australia", "price": "A$320" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-005",
+    "date": "2025-07-12",
+    "day_of_week": "Saturday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$280",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$350" },
+      { "platform": "Virgin Australia", "price": "A$320" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-006",
+    "date": "2025-07-13",
+    "day_of_week": "Sunday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$280",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$350" },
+      { "platform": "Virgin Australia", "price": "A$320" }
+    ]
+  },
+  
+  {
+    "flight_id": "MELCNS-1105-007",
+    "date": "2025-07-14",
+    "day_of_week": "Monday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$280",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$350" },
+      { "platform": "Virgin Australia", "price": "A$320" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-008",
+    "date": "2025-07-15",
+    "day_of_week": "Tuesday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$280",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$350" },
+      { "platform": "Virgin Australia", "price": "A$320" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-009",
+    "date": "2025-07-16",
+    "day_of_week": "Wednesday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$280",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$350" },
+      { "platform": "Virgin Australia", "price": "A$320" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-010",
+    "date": "2025-07-17",
+    "day_of_week": "Thursday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$280",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$350" },
+      { "platform": "Virgin Australia", "price": "A$320" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-011",
+    "date": "2025-07-18",
+    "day_of_week": "Friday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$280",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$350" },
+      { "platform": "Virgin Australia", "price": "A$320" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-012",
+    "date": "2025-07-19",
+    "day_of_week": "Saturday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$280",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$350" },
+      { "platform": "Virgin Australia", "price": "A$320" }
+    ]
+  },
+
+  {
+    "flight_id": "MELCNS-1105-013",
+    "date": "2025-07-20",
+    "day_of_week": "Sunday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$280",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$350" },
+      { "platform": "Virgin Australia", "price": "A$320" }
+    ]
+  },
+  
+  {
+    "flight_id": "MELCNS-1105-014",
+    "date": "2025-07-21",
+    "day_of_week": "Monday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$290",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$290", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$360" },
+      { "platform": "Virgin Australia", "price": "A$330" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-015",
+    "date": "2025-07-22",
+    "day_of_week": "Tuesday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$300",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$300" },
+      { "platform": "Qantas", "price": "A$370" },
+      { "platform": "Virgin Australia", "price": "A$340", "is_best_offer": true }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-016",
+    "date": "2025-07-23",
+    "day_of_week": "Wednesday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$290",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$290", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$360" },
+      { "platform": "Virgin Australia", "price": "A$330" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-017",
+    "date": "2025-07-24",
+    "day_of_week": "Thursday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$300",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$300" },
+      { "platform": "Qantas", "price": "A$370" },
+      { "platform": "Virgin Australia", "price": "A$340", "is_best_offer": true }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-018",
+    "date": "2025-07-25",
+    "day_of_week": "Friday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$290",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$290", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$360" },
+      { "platform": "Virgin Australia", "price": "A$330" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-019",
+    "date": "2025-07-26",
+    "day_of_week": "Saturday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$280",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$350" },
+      { "platform": "Virgin Australia", "price": "A$320" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-020",
+    "date": "2025-07-27",
+    "day_of_week": "Sunday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$300",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$300" },
+      { "platform": "Qantas", "price": "A$370" },
+      { "platform": "Virgin Australia", "price": "A$340", "is_best_offer": true }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-021",
+    "date": "2025-07-28",
+    "day_of_week": "Monday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$290",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$290", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$360" },
+      { "platform": "Virgin Australia", "price": "A$330" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-022",
+    "date": "2025-07-29",
+    "day_of_week": "Tuesday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$280",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$280", "is_best_offer": true },
+      { "platform": "Qantas", "price": "A$350" },
+      { "platform": "Virgin Australia", "price": "A$320" }
+    ]
+  },
+  {
+    "flight_id": "MELCNS-1105-023",
+    "date": "2025-07-30",
+    "day_of_week": "Wednesday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "10:25",
+      "origin_airport": "MEL Melbourne",
+      "destination_airport": "CNS Cairns",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "20:25",
+      "origin_airport": "CNS Cairns",
+      "destination_airport": "MEL Melbourne",
+      "stops": "direct",
+      "duration": "3h 25m"
+    },
+    "base_price": "A$300",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$300" },
+      { "platform": "Qantas", "price": "A$370" },
+      { "platform": "Virgin Australia", "price": "A$340", "is_best_offer": true }
+    ]
+  },
+
+
+  {
+    "flight_id": "BNEOOL-0706-001",
+    "date": "2025-07-06",
+    "day_of_week": "Sunday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "08:15",
+      "arrival_time": "09:00",
+      "origin_airport": "BNE Brisbane",
+      "destination_airport": "OOL Gold Coast",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "return_flight": {
+      "departure_time": "17:45",
+      "arrival_time": "18:30",
+      "origin_airport": "OOL Gold Coast",
+      "destination_airport": "BNE Brisbane",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "base_price": "A$95",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$95", "is_best_offer": true },
+      { "platform": "QantasLink", "price": "A$125" }
+    ]
+  },
+  {
+    "flight_id": "BNEOOL-0707-001",
+    "date": "2025-07-07",
+    "day_of_week": "Monday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "09:00",
+      "arrival_time": "09:45",
+      "origin_airport": "BNE Brisbane",
+      "destination_airport": "OOL Gold Coast",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "return_flight": {
+      "departure_time": "18:00",
+      "arrival_time": "18:45",
+      "origin_airport": "OOL Gold Coast",
+      "destination_airport": "BNE Brisbane",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "base_price": "A$100",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Virgin Australia", "price": "A$100", "is_best_offer": true },
+      { "platform": "QantasLink", "price": "A$130" }
+    ]
+  },
+  {
+    "flight_id": "BNEOOL-0708-001",
+    "date": "2025-07-08",
+    "day_of_week": "Tuesday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:45",
+      "arrival_time": "08:30",
+      "origin_airport": "BNE Brisbane",
+      "destination_airport": "OOL Gold Coast",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "return_flight": {
+      "departure_time": "16:30",
+      "arrival_time": "17:15",
+      "origin_airport": "OOL Gold Coast",
+      "destination_airport": "BNE Brisbane",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "base_price": "A$88",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$88", "is_best_offer": true },
+      { "platform": "QantasLink", "price": "A$115" }
+    ]
+  },
+  {
+    "flight_id": "BNEOOL-0709-001",
+    "date": "2025-07-09",
+    "day_of_week": "Wednesday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "10:00",
+      "arrival_time": "10:45",
+      "origin_airport": "BNE Brisbane",
+      "destination_airport": "OOL Gold Coast",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "return_flight": {
+      "departure_time": "19:15",
+      "arrival_time": "20:00",
+      "origin_airport": "OOL Gold Coast",
+      "destination_airport": "BNE Brisbane",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "base_price": "A$105",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Virgin Australia", "price": "A$105", "is_best_offer": true },
+      { "platform": "QantasLink", "price": "A$138" }
+    ]
+  },
+
+
+
+
+
+
     {
       "flight_id": "BNEOOL-1110-001",
       "date": "2025-11-10",
@@ -1266,6 +2274,281 @@
         { "platform": "QantasLink", "price": "A$140" }
       ]
     },
+    
+  {
+    "flight_id": "BNEOOL-0712-001",
+    "date": "2025-07-12",
+    "day_of_week": "Saturday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "06:30",
+      "arrival_time": "07:15",
+      "origin_airport": "BNE Brisbane",
+      "destination_airport": "OOL Gold Coast",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "return_flight": {
+      "departure_time": "16:30",
+      "arrival_time": "17:15",
+      "origin_airport": "OOL Gold Coast",
+      "destination_airport": "BNE Brisbane",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "base_price": "A$92",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$92", "is_best_offer": true },
+      { "platform": "QantasLink", "price": "A$115" }
+    ]
+  },
+  {
+    "flight_id": "BNEOOL-0713-001",
+    "date": "2025-07-13",
+    "day_of_week": "Sunday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:30",
+      "arrival_time": "08:15",
+      "origin_airport": "BNE Brisbane",
+      "destination_airport": "OOL Gold Coast",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "return_flight": {
+      "departure_time": "17:45",
+      "arrival_time": "18:30",
+      "origin_airport": "OOL Gold Coast",
+      "destination_airport": "BNE Brisbane",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "base_price": "A$98",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Virgin Australia", "price": "A$98", "is_best_offer": true },
+      { "platform": "QantasLink", "price": "A$129" }
+    ]
+  },
+  {
+    "flight_id": "BNEOOL-0714-001",
+    "date": "2025-07-14",
+    "day_of_week": "Monday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "08:00",
+      "arrival_time": "08:45",
+      "origin_airport": "BNE Brisbane",
+      "destination_airport": "OOL Gold Coast",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "17:45",
+      "origin_airport": "OOL Gold Coast",
+      "destination_airport": "BNE Brisbane",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "base_price": "A$90",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$90", "is_best_offer": true },
+      { "platform": "QantasLink", "price": "A$120" }
+    ]
+  },
+  {
+    "flight_id": "BNEOOL-0715-001",
+    "date": "2025-07-15",
+    "day_of_week": "Tuesday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "09:45",
+      "arrival_time": "10:30",
+      "origin_airport": "BNE Brisbane",
+      "destination_airport": "OOL Gold Coast",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "return_flight": {
+      "departure_time": "18:45",
+      "arrival_time": "19:30",
+      "origin_airport": "OOL Gold Coast",
+      "destination_airport": "BNE Brisbane",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "base_price": "A$112",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Virgin Australia", "price": "A$112", "is_best_offer": true },
+      { "platform": "QantasLink", "price": "A$135" }
+    ]
+  },
+  {
+    "flight_id": "BNEOOL-0716-001",
+    "date": "2025-07-16",
+    "day_of_week": "Wednesday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:00",
+      "arrival_time": "07:45",
+      "origin_airport": "BNE Brisbane",
+      "destination_airport": "OOL Gold Coast",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "return_flight": {
+      "departure_time": "16:00",
+      "arrival_time": "16:45",
+      "origin_airport": "OOL Gold Coast",
+      "destination_airport": "BNE Brisbane",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "base_price": "A$85",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$85", "is_best_offer": true },
+      { "platform": "QantasLink", "price": "A$110" }
+    ]
+  },
+  {
+    "flight_id": "BNEOOL-0717-001",
+    "date": "2025-07-17",
+    "day_of_week": "Thursday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "09:30",
+      "arrival_time": "10:15",
+      "origin_airport": "BNE Brisbane",
+      "destination_airport": "OOL Gold Coast",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "return_flight": {
+      "departure_time": "18:30",
+      "arrival_time": "19:15",
+      "origin_airport": "OOL Gold Coast",
+      "destination_airport": "BNE Brisbane",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "base_price": "A$108",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Virgin Australia", "price": "A$108", "is_best_offer": true },
+      { "platform": "QantasLink", "price": "A$128" }
+    ]
+  },
+  {
+    "flight_id": "BNEOOL-0718-001",
+    "date": "2025-07-18",
+    "day_of_week": "Friday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "06:45",
+      "arrival_time": "07:30",
+      "origin_airport": "BNE Brisbane",
+      "destination_airport": "OOL Gold Coast",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "return_flight": {
+      "departure_time": "16:45",
+      "arrival_time": "17:30",
+      "origin_airport": "OOL Gold Coast",
+      "destination_airport": "BNE Brisbane",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "base_price": "A$89",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$89", "is_best_offer": true },
+      { "platform": "QantasLink", "price": "A$118" }
+    ]
+  },
+  {
+    "flight_id": "BNEOOL-0719-001",
+    "date": "2025-07-19",
+    "day_of_week": "Saturday",
+    "type_category": "Best",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "08:30",
+      "arrival_time": "09:15",
+      "origin_airport": "BNE Brisbane",
+      "destination_airport": "OOL Gold Coast",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "return_flight": {
+      "departure_time": "17:30",
+      "arrival_time": "18:15",
+      "origin_airport": "OOL Gold Coast",
+      "destination_airport": "BNE Brisbane",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "base_price": "A$102",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Virgin Australia", "price": "A$102", "is_best_offer": true },
+      { "platform": "QantasLink", "price": "A$125" }
+    ]
+  },
+  {
+    "flight_id": "BNEOOL-0720-001",
+    "date": "2025-07-20",
+    "day_of_week": "Sunday",
+    "type_category": "Cheapest",
+    "is_cheapest_in_category": true,
+    "outbound_flight": {
+      "departure_time": "07:15",
+      "arrival_time": "08:00",
+      "origin_airport": "BNE Brisbane",
+      "destination_airport": "OOL Gold Coast",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "return_flight": {
+      "departure_time": "17:00",
+      "arrival_time": "17:45",
+      "origin_airport": "OOL Gold Coast",
+      "destination_airport": "BNE Brisbane",
+      "stops": "direct",
+      "duration": "0h 45m"
+    },
+    "base_price": "A$94",
+    "currency": "AUD",
+    "fare_type": "Economy",
+    "booking_options": [
+      { "platform": "Jetstar", "price": "A$94", "is_best_offer": true },
+      { "platform": "QantasLink", "price": "A$117" }
+    ]
+  },
+
+
+
+
     {
       "flight_id": "PERDRW-1115-001",
       "date": "2025-11-15",
